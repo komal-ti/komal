@@ -1,2 +1,3 @@
 # komal
-this is my fsecond git repository
+this is my fsecond git repository tiwari
+
